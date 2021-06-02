@@ -1,6 +1,6 @@
 module github.com/southern-martin/oauth-go
 
-go 1.14
+go 1.15
 
 require (
 	//github.com/federicoleon/bookstore_utils-go v0.0.0-20191115214654-f8b94f132ebf
